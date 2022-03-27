@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Aleksey Knyazhev. I'm a go developer at Moscow, Russia. 🇷🇺
+
+---
+
+### About me 👀
+
+Now i'm working in VK as junior golang developer.
+
 <!--
 **muhomorfus/muhomorfus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
