@@ -6,7 +6,7 @@ My name is Aleksey Knyazhev. I'm a go developer at Moscow, Russia. 🇷🇺
 
 ### About me 👀
 
-Now i'm working in VK as junior developer.
+Now i'm working in Zdravcity as middle go developer.
 
 <!--
 **muhomorfus/muhomorfus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
