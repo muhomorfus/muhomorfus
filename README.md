@@ -1,8 +1,7 @@
-### Hi there 👋
+### 👋 Hi there
+My name is Aleksey Knyazhev. 
 
-My name is Aleksey Knyazhev. I'm a developer at Moscow, Russia. 🇷🇺
-
-### I'm interested in... 👀
+### 👀 I'm interested in...
 Go, \*nix, Docker, Kafka etc.
 
 ---
