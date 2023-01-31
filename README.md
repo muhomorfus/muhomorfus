@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-My name is Aleksey Knyazhev. I'm a go developer at Moscow, Russia. 🇷🇺
+My name is Aleksey Knyazhev. I'm a developer at Moscow, Russia. 🇷🇺
 
 ---
 
-### About me 👀
+### I'm interested in... 👀
+Go, \*nix, Docker, Kafka etc.
 
-Now i'm working in Zdravcity as middle go developer.
+![Profile views](https://gpvc.arturio.dev/muhomorfus)
 
 <!--
 **muhomorfus/muhomorfus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
