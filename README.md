@@ -1,12 +1,14 @@
-### 👋 Hi there
-My name is Aleksey Knyazhev. 
+### 🍺 Hi there
+I am backend developer.
+
+### 🛠️ My stack
+- Programming languages: Go, C, Prolog, Python.
+- Databases: PostgreSQL, Redis, MongoDB.
+- Infrastructure: Docker, Kubernetes a little.
+- Beer: Baltica 7, Baltica 9.
 
 ### 👀 I'm interested in...
 Go, \*nix, Docker, Kafka etc.
-
----
-
-![Profile views](https://gpvc.arturio.dev/muhomorfus)
 
 <!--
 **muhomorfus/muhomorfus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
