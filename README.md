@@ -1,28 +1,14 @@
 ### 🍺 Hi there
 I am backend developer.
 
-### 🛠️ My stack
+### 🛠️ I've worked with
 - Programming languages: Go, C, Prolog, Python.
 - Databases: PostgreSQL, Redis, MongoDB.
+- MQ: Kafka, Kafka Connect, ksqlDB.
 - Infrastructure: Docker, Kubernetes a little.
 - Beer: Baltica 7, Baltica 9.
 
-### 👀 I'm interested in...
-Go, \*nix, Docker, Kafka etc.
-
-<!--
-**muhomorfus/muhomorfus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👀 I'm interested in
+Kubernetes, self-made vodka.
 
 
